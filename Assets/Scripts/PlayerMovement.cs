@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     public Animator playerAnimator;
     private float moveSpeed = 5.0f;
     private float horizontal = 0.0f;
+    private float lastHorizontal = 1.0f;
 
     private bool jump = false;
     public bool canMove = true;
@@ -82,10 +83,12 @@ public class PlayerMovement : MonoBehaviour
             if (horizontal == 0.0f)
             {
                 playerAnimator.SetBool("IsMoving", false);
+                playerAnimator.SetFloat("LastMoveHorizontal", lastHorizontal);
             }
             else
             {
                 playerAnimator.SetBool("IsMoving", true);
+                lastHorizontal = horizontal;
             }
         }
         else

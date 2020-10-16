@@ -38,6 +38,42 @@ TextureImporter:
   - first:
       213: -1797282079921501655
     second: Isaac-SpriteSheet_7
+  - first:
+      213: 1618482084558367098
+    second: Isaac-SpriteSheet_4
+  - first:
+      213: 4968646287086001467
+    second: Isaac-SpriteSheet_5
+  - first:
+      213: 5928203124487508171
+    second: Isaac-SpriteSheet_6
+  - first:
+      213: 4992030542564669623
+    second: Isaac-SpriteSheet_7
+  - first:
+      213: 6240239484400562945
+    second: Isaac-SpriteSheet_8
+  - first:
+      213: -3220661564841792119
+    second: Isaac-SpriteSheet_9
+  - first:
+      213: 1176460076749369855
+    second: Isaac-SpriteSheet_10
+  - first:
+      213: 8406900635167443465
+    second: Isaac-SpriteSheet_11
+  - first:
+      213: 6021754479361430281
+    second: Isaac-SpriteSheet_12
+  - first:
+      213: -6825615941489914708
+    second: Isaac-SpriteSheet_13
+  - first:
+      213: 1707940914314960231
+    second: Isaac-SpriteSheet_14
+  - first:
+      213: -3951283511305549303
+    second: Isaac-SpriteSheet_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -257,8 +293,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fb675ef52c146c00800000000000000
-      internalID: 892869575632710644
+      spriteID: a796f6d71e0067610800000000000000
+      internalID: 1618482084558367098
       vertices: []
       indices: 
       edges: []
@@ -278,8 +314,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0dc7532a747bb5f0800000000000000
-      internalID: -739869645844525813
+      spriteID: b3d135c197d24f440800000000000000
+      internalID: 4968646287086001467
       vertices: []
       indices: 
       edges: []
@@ -299,8 +335,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ffde38ddaeca6a30800000000000000
-      internalID: 4209404047783813106
+      spriteID: bc0507f2555354250800000000000000
+      internalID: 5928203124487508171
       vertices: []
       indices: 
       edges: []
@@ -320,8 +356,176 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92a8a118875ce07e0800000000000000
-      internalID: -1797282079921501655
+      spriteID: 7b8b77d5451474540800000000000000
+      internalID: 4992030542564669623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ff05bfb8c99650800000000000000
+      internalID: 6240239484400562945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98de9ddde59ed43d0800000000000000
+      internalID: -3220661564841792119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13317e430a35010800000000000000
+      internalID: 1176460076749369855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4925069f4ba470800000000000000
+      internalID: 8406900635167443465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90394fa5bc1919350800000000000000
+      internalID: 6021754479361430281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0042077a8641a0800000000000000
+      internalID: -6825615941489914708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d59176633d3b710800000000000000
+      internalID: 1707940914314960231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac-SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a46cdc4983a29c0800000000000000
+      internalID: -3951283511305549303
       vertices: []
       indices: 
       edges: []

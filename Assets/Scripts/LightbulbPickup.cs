@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.Rendering.Universal;
 
 public class LightbulbPickup : MonoBehaviour, IPickup
 {
@@ -24,10 +25,11 @@ public class LightbulbPickup : MonoBehaviour, IPickup
 
         if (player == null || noLightbulb) return;
 
-        player.playerAnimator.SetBool("HasLightbulb", true);
+        player.playerAnimator.SetFloat("HasLightbulb", 1f);
         canPickup = false;
         Transform lightbulb = transform.GetChild(0);
         lightbulb.gameObject.SetActive(false);
+        player.gameObject.GetComponentInChildren<Light2D>().enabled = true;
         noLightbulb = true;
     }
 
