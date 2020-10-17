@@ -19,7 +19,7 @@ TagManager:
   - Background
   - Foreground
   - Player
-  - 
+  - Interactable
   - 
   - 
   - 
@@ -53,6 +53,6 @@ TagManager:
   - name: Player
     uniqueID: 3013785835
     locked: 0
-  - name: Pickups
-    uniqueID: 2994438667
+  - name: Interactable
+    uniqueID: 99894083
     locked: 0
